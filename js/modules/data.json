@@ -1,0 +1,44 @@
+[
+    {
+      "text": "Write the code as if it will be accompanied by a violent psychopath who knows where you live",
+      "author": "Steve McConnell",
+      "textTranslateRu": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+      "authorTranslateRu": "Стив Макконнелл"
+    },
+    {
+      "text": "The complexity of the program grows until it exceeds the abilities of the programmer",
+      "author": "Arthur Bloch. Murphy's Laws",
+      "textTranslateRu": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+      "authorTranslateRu": "Артур Блох. Законы Мэрфи"
+    },
+    {
+      "text": "Walking on water and developing programs following the TOR is very easy... if they are frozen",
+      "author": "I. Berard",
+      "textTranslateRu": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+      "authorTranslateRu": "И. Берард"
+    },
+    {
+        "text": "We are witnessing a society that is increasingly dependent on machines, but at the same time uses them more and more inefficiently",
+        "author": "Douglas Rushkoff",
+        "textTranslateRu": "Мы наблюдаем общество, которое все больше зависит от машин, но при этом использует их все неэффективнее",
+        "authorTranslateRu": "Дуглас Рашкофф"
+    },
+    {
+        "text": "Debugging code is like hunting. Bug Hunting",
+        "author": "Amit Kalantri",
+        "textTranslateRu": "Отладка кода — это как охота. Охота на баги",
+        "authorTranslateRu": "Амит Калантри"
+    },
+    {
+        "text": "Is it working? Don't touch",
+        "author": "Any programmer",
+        "textTranslateRu": "Работает? Не трогай",
+        "authorTranslateRu": "Любой программист"
+    },
+    {
+        "text": "How much easier would it be to write programs if it weren't for the customers",
+        "author": "R. S. Martin",
+        "textTranslateRu": "Насколько проще было бы писать программы, если бы не заказчики",
+        "authorTranslateRu": "Р. С. Мартин"
+    }
+]
